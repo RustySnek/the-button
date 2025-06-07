@@ -37,4 +37,5 @@ Masz dwie możliwości:
 `pip install -r requirements.txt`
 
 🔹 4. Uruchom serwer
-`python manage.py runserver`
+`python manage.py runserver
+Zmiana w pliku README.
